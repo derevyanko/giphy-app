@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">giphy</string>
+    <string name="connection_problem">Connection problem!</string>
+    <string name="try_again">Try again!</string>
+    <string name="loading">Loading...</string>
+    <string name="giphy_is_removed">The giphy is removed!</string>
+    <string name="delete_giphy">Delete giphy</string>
+    <string name="are_sure_you_want_to_delete_giphy">Do you really want to delete this giphy?</string>
+    <string name="search_here">Search Here</string>
+</resources>
